@@ -10,14 +10,14 @@
 - [Orphan vs Zombie vs Daemon processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/) - What is a Daemon? Good article which explanins it and some more.
 
 ## Interview Prep
-- [CodeChef - Data structures and Algorithms practice](https://www.codechef.com/)
-- [Project Euler - Math and Computer problems](https://projecteuler.net/)
-- [High Scalability - Understand high scale architecture](http://highscalability.com/blog/category/example)
+- [CodeChef](https://www.codechef.com/) - Data structures and Algorithms practice
+- [Project Euler](https://projecteuler.net/) - Math and Computer problems
+- [High Scalability](http://highscalability.com/blog/category/example) - Understand high scale architecture
 
 ## Tutorial based
 ### Javascript
 - [Modern Javascript Tutorial](https://javascript.info/)
-- [Eloquent Javascript Book](https://eloquentjavascript.net/)
+- [Eloquent Javascript Book](https://eloquentjavascript.net/) - If javascript had a bible.
 
 ### General
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Very concise guide for all the main features of Y amounts of things out there. The name says it all. Non english guides probably the most helpful and unique thing about this website.
