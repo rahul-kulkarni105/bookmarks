@@ -8,6 +8,7 @@
 - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) - One of the best articles explaning Git. To read when you want to sleep or when you are feeling extra productive during office hours.
 - [HTTP Status Codes](https://httpstatuses.com/) - Gives you ALL the codes on the first page. No BS.
 - [Orphan vs Zombie vs Daemon processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/) - What is a Daemon? Good article which explanins it and some more.
+- [Linux Man Pages](https://linux.die.net/man/)
 
 ## Interview Prep
 - [CodeChef](https://www.codechef.com/) - Data structures and Algorithms practice
