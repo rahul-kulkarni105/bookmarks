@@ -15,6 +15,7 @@
 - [CodeChef](https://www.codechef.com/) - Data structures and Algorithms practice
 - [Project Euler](https://projecteuler.net/) - Math and Computer problems
 - [High Scalability](http://highscalability.com/blog/category/example) - Understand high scale architecture
+- [General Tips for Coding problems](https://drive.google.com/file/d/1GYs37ObRkRSkUOxPYCX9FjUJYwYwFhyx/view?usp=sharing)
 
 ## Tutorial based
 ### Javascript
