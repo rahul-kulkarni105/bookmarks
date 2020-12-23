@@ -10,6 +10,7 @@
 - [Orphan vs Zombie vs Daemon processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/) - What is a Daemon? Good article which explanins it and some more.
 - [Linux Man Pages](https://linux.die.net/man/)
 - [Open API Spec](http://spec.openapis.org/oas/v3.0.3) - Open API spec docs (previously known as swagger) and references
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Guidelines to write clear and succinct commit messages. No Emoji! atleast not as the only message.
 
 ## Interview Prep
 - [CodeChef](https://www.codechef.com/) - Data structures and Algorithms practice
