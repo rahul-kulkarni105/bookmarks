@@ -2,8 +2,8 @@
 
 
 ## General Information based
-- [12 Factor App](https://12factor.net/)
-- [AWS CCP](https://miro.com/app/board/o9J_koXQP3U=/) - AWS Miro charts and flow diagrams i found on reddit.
+- [12 Factor App](https://12factor.net/) - Just know/be aware of this.
+- [AWS CCP](https://miro.com/app/board/o9J_koXQP3U=/) - AWS Miro charts and flow diagrams i found on reddit. I think this more for Software Architect Associate Certification.
 - [OWASP Cheatsheet Series](https://12factor.net/) - Great bullet point based cheat sheet for application security.
 - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) - One of the best articles explaning Git. To read when you want to sleep or when you are feeling extra productive during office hours.
 - [HTTP Status Codes](https://httpstatuses.com/) - Gives you ALL the codes on the first page. No BS.
@@ -21,7 +21,7 @@
 
 ## Tutorial based
 ### Javascript
-- [Modern Javascript Tutorial](https://javascript.info/)
+- [Modern Javascript Tutorial](https://javascript.info/) - Just good ole JS tut. There are a lot out there, some might even be better than this but this ones a decent one.
 - [Eloquent Javascript Book](https://eloquentjavascript.net/) - If javascript had a bible.
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript#variables) - Guidelines to write a cleaner code, more like suggestions/best practices. Great resource to look into every now and then, especially working a new project/ working with a team to setup coding/review guidelines.
 
