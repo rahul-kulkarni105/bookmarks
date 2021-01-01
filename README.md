@@ -11,6 +11,7 @@
 - [Linux Man Pages](https://linux.die.net/man/)
 - [Open API Spec](http://spec.openapis.org/oas/v3.0.3) - Open API spec docs (previously known as swagger) and references
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Guidelines to write clear and succinct commit messages. No Emoji! atleast not as the only message.
+- [Software Architect Guidelines](https://github.com/justinamiller/SoftwareArchitect) - Good and succinct guidelines to read and follow for a software architect
 
 ## Interview Prep
 - [CodeChef](https://www.codechef.com/) - Data structures and Algorithms practice
