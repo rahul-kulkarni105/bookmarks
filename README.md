@@ -21,7 +21,7 @@
 
 ## Tutorial based
 ### Javascript
-- [Modern Javascript Tutorial](https://javascript.info/) - Just good ole JS tut. There are a lot out there, some might even be better than this but this ones a decent one.
+- [Modern Javascript Tutorial](https://javascript.info/) - Just good ole JS tut. There are a lot out there, some might even be better than this but this ones a decent one. Definitely one with a better UX.
 - [Eloquent Javascript Book](https://eloquentjavascript.net/) - If javascript had a bible.
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript#variables) - Guidelines to write a cleaner code, more like suggestions/best practices. Great resource to look into every now and then, especially working a new project/ working with a team to setup coding/review guidelines.
 
