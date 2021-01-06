@@ -4,14 +4,17 @@
 ## General Information based
 - [12 Factor App](https://12factor.net/) - Just know/be aware of this.
 - [AWS CCP](https://miro.com/app/board/o9J_koXQP3U=/) - AWS Miro charts and flow diagrams i found on reddit. I think this more for Software Architect Associate Certification.
-- [OWASP Cheatsheet Series](https://12factor.net/) - Great bullet point based cheat sheet for application security.
 - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) - One of the best articles explaning Git. To read when you want to sleep or when you are feeling extra productive during office hours.
 - [HTTP Status Codes](https://httpstatuses.com/) - Gives you ALL the codes on the first page. No BS.
 - [Orphan vs Zombie vs Daemon processes](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/) - What is a Daemon? Good article explaining it and some more.
 - [Linux Man Pages](https://linux.die.net/man/)
 - [Open API Spec](http://spec.openapis.org/oas/v3.0.3) - Open API spec docs (previously known as swagger) and references
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Guidelines to write clear and succinct commit messages. No Emoji! atleast not as the only message.
+
+## Web Security
+- [OWASP Cheatsheet Series](https://12factor.net/) - Great bullet point based cheat sheet for application security.
 - [Software Architect Guidelines](https://github.com/justinamiller/SoftwareArchitect) - Good and succinct guidelines to read and follow for a software architect
+- [Protecting your cookies](https://blog.codinghorror.com/protecting-your-cookies-httponly/)
 
 ## Interview Prep
 - [CodeChef](https://www.codechef.com/) - Data structures and Algorithms practice
