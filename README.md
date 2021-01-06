@@ -18,6 +18,7 @@
 - [Project Euler](https://projecteuler.net/) - Math and Computer problems
 - [High Scalability](http://highscalability.com/blog/category/example) - Understand high scale architecture
 - [General Tips for Coding problems](https://drive.google.com/file/d/1GYs37ObRkRSkUOxPYCX9FjUJYwYwFhyx/view?usp=sharing)
+- [STOP using local storage!](https://www.rdegges.com/2018/please-stop-using-local-storage/) - Gives you a great explanation about what is local storage and why to use it or not to use it. Also tells you what to use instead if not local storage. 
 
 ## Tutorial based
 ### Javascript
