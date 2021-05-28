@@ -29,5 +29,8 @@
 - [Eloquent Javascript Book](https://eloquentjavascript.net/) - If javascript had a bible.
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript#variables) - Guidelines to write a cleaner code, more like suggestions/best practices. Great resource to look into every now and then, especially working a new project/ working with a team to setup coding/review guidelines.
 
+### Rust
+- [Rust - Half hour in text](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - Just start here if you are wondering what is rust and where do i start. Here. :)
+
 ### General
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - Very concise guide for all the main features of Y amounts of things out there. The name says it all. Non english guides probably the most helpful and unique thing about this website.
