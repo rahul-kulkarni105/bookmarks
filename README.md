@@ -10,6 +10,7 @@
 - [Linux Man Pages](https://linux.die.net/man/)
 - [Open API Spec](http://spec.openapis.org/oas/v3.0.3) - Open API spec docs (previously known as swagger) and references
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Guidelines to write clear and succinct commit messages. No Emoji! atleast not as the only message.
+- [Bracket pair colorization 10,000x faster - VS Code](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization) - Outstanding article. Bit complex to just skim through but if you have time and want to spend on something cool, this would be a good option.
 
 ## Web Security
 - [OWASP Cheatsheet Series](https://12factor.net/) - Great bullet point based cheat sheet for application security.
