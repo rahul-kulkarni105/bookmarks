@@ -11,10 +11,10 @@
 - [Open API Spec](http://spec.openapis.org/oas/v3.0.3) - Open API spec docs (previously known as swagger) and references
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Guidelines to write clear and succinct commit messages. No Emoji! at least not as the only message.
 - [Bracket pair colorization 10,000x faster - VS Code](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization) - Outstanding article. Bit complex to just skim through but if you have time and want to spend on something cool, this would be a good option.
-- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html) - Excellent article from 2019 which is still very much relevant and applicable. Very detailed idea on what a micro frontend is and some more. 
+- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html) - Excellent article from 2019 which is still very much relevant and applicable. A very detailed idea of what a micro frontend is and some more. 
 
 ## Web Security
-- [OWASP Cheatsheet Series](https://12factor.net/) - Great bullet point based cheat sheet for application security.
+- [OWASP Cheatsheet Series](https://12factor.net/) - Great bullet point-based cheat sheet for application security.
 - [Software Architect Guidelines](https://github.com/justinamiller/SoftwareArchitect) - Good and succinct guidelines to read and follow for a software architect
 - [Protecting your cookies](https://blog.codinghorror.com/protecting-your-cookies-httponly/)
 
@@ -36,3 +36,4 @@
 
 ### General
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - A very concise guide for all the main features of Y amounts of things out there. The name says it all. Non-English guides are probably the most helpful and unique thing about this website.
+- [Compare NPM lib Trends](https://npmtrends.com/) - As the name says, comparing multiple libs out there. Perhaps gives more idea which is more popular lib or where is the industry trend is going? If these things matter to you then this is a great comparison tool.
