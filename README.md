@@ -11,6 +11,8 @@
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Guidelines to write clear and succinct commit messages. No Emoji! at least not as the only message.
 - [Bracket pair colorization 10,000x faster - VS Code](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization) - Outstanding article. Bit complex to just skim through but if you have time and want to spend on something cool, this would be a good option.
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html) - Excellent article from 2019 which is still very much relevant and applicable. A very detailed idea of what a micro frontend is and some more.
+- [W3 Org all standards](https://www.w3.org/TR/?status%5B0%5D=standard) - All the standards published by W3. Mega load.
+- [Web Content Accessibility Guidelines - WCAG](https://www.w3.org/WAI/WCAG21/quickref/) - Super handy documentation on accessibility and from the official source itself. They also have a small "How to use" section at the very top of this page. Very handy if you are not very familiar with the jargon.
 
 ## Web Security
 - [OWASP Cheatsheet Series](https://12factor.net/) - Great bullet point-based cheat sheet for application security.
