@@ -1,6 +1,5 @@
 # bookmarks
 
-
 ## General Information based
 - [12 Factor App](https://12factor.net/) - Just know/be aware of this.
 - [AWS CCP](https://miro.com/app/board/o9J_koXQP3U=/) - AWS Miro charts and flow diagrams I found on Reddit. I think this is more for Software Architect Associate Certification.
@@ -11,7 +10,7 @@
 - [Open API Spec](http://spec.openapis.org/oas/v3.0.3) - Open API spec docs (previously known as swagger) and references
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Guidelines to write clear and succinct commit messages. No Emoji! at least not as the only message.
 - [Bracket pair colorization 10,000x faster - VS Code](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization) - Outstanding article. Bit complex to just skim through but if you have time and want to spend on something cool, this would be a good option.
-- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html) - Excellent article from 2019 which is still very much relevant and applicable. A very detailed idea of what a micro frontend is and some more. 
+- [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html) - Excellent article from 2019 which is still very much relevant and applicable. A very detailed idea of what a micro frontend is and some more.
 
 ## Web Security
 - [OWASP Cheatsheet Series](https://12factor.net/) - Great bullet point-based cheat sheet for application security.
@@ -23,7 +22,8 @@
 - [Project Euler](https://projecteuler.net/) - Math and Computer problems
 - [High Scalability](http://highscalability.com/blog/category/example) - Understand high scale architecture
 - [General Tips for Coding problems](https://drive.google.com/file/d/1GYs37ObRkRSkUOxPYCX9FjUJYwYwFhyx/view?usp=sharing)
-- [STOP using local storage!](https://www.rdegges.com/2018/please-stop-using-local-storage/) - Gives you a great explanation about what is local storage and why to use it or not to use it. Also tells you what to use instead if not local storage. 
+- [STOP using local storage!](https://www.rdegges.com/2018/please-stop-using-local-storage/) - Gives you a great explanation about what is local storage and why to use it or not to use it. Also tells you what to use instead if not local storage.
+- [Sanfoundry](https://www.sanfoundry.com/) - Like MCQs because you are a madlad? well, here you go.
 
 ## Tutorial based
 ### Javascript
