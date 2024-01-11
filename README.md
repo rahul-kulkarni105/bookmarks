@@ -13,6 +13,7 @@
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html) - Excellent article from 2019 which is still very much relevant and applicable. A very detailed idea of what a micro frontend is and some more.
 - [W3 Org all standards](https://www.w3.org/TR/?status%5B0%5D=standard) - All the standards published by W3. Mega load.
 - [Web Content Accessibility Guidelines - WCAG](https://www.w3.org/WAI/WCAG21/quickref/) - Super handy documentation on accessibility and from the official source itself. They also have a small "How to use" section at the very top of this page. Very handy if you are not very familiar with the jargon.
+- [globsterXYZ](https://globster.xyz/) - Matches all files and zero or more directories and subdirectories. Easy way to make sure file directory catching paths are correct and handle edge cases.
 
 ## Web Security
 - [OWASP Cheatsheet Series](https://12factor.net/) - Great bullet point-based cheat sheet for application security.
@@ -27,11 +28,14 @@
 - [STOP using local storage!](https://www.rdegges.com/2018/please-stop-using-local-storage/) - Gives you a great explanation about what is local storage and why to use it or not to use it. Also tells you what to use instead if not local storage.
 - [Sanfoundry](https://www.sanfoundry.com/) - Like MCQs because you are a madlad? well, here you go.
 
+## Management
+- [Makers Schedule](https://www.paulgraham.com/makersschedule.html) - A Neat article explains managers' schedules vs makers' schedules. Worth a 4 min read.
+
 ## Tutorial based
 ### Javascript
-- [Modern Javascript Tutorial](https://javascript.info/) - Just good ole JS tut. There are a lot out there, some might even be better than this but this one is a decent one. Definitely one with a better UX.
+- [Modern Javascript Tutorial](https://javascript.info/) - Just good ole JS tut. There are a lot out there, some might even be better than this but this one is decent. One with a better UX.
 - [Eloquent Javascript Book](https://eloquentjavascript.net/) - If javascript had a bible.
-- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript#variables) - Guidelines to write a cleaner code, more like suggestions/best practices. A great resource to look into every now and then, especially working on a new project/ working with a team to set up coding/review guidelines.
+- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript#variables) - Guidelines to write a cleaner code, more like suggestions/best practices. A great resource to look into now and then, especially when working on a new project/ working with a team to set up coding/review guidelines.
 
 ### Rust
 - [Rust - Half hour in text](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - Just start here if you are wondering what is rust and where do I start. Here. :)
