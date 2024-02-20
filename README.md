@@ -30,6 +30,7 @@
 
 ## Management
 - [Makers Schedule](https://www.paulgraham.com/makersschedule.html) - A Neat article explains managers' schedules vs makers' schedules. Worth a 4 min read.
+- [How to be a -10X Engineer](https://taylor.town/-10x) - How to be a -10x Engineer. This won't be your waste of time, but some of the work you are doing at your workplace might be a waste of time.
 
 ## Tutorial based
 ### Javascript
