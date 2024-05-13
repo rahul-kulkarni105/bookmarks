@@ -19,7 +19,7 @@
 ## Web Security
 - [OWASP Cheatsheet Series](https://12factor.net/) - Great bullet point-based cheat sheet for application security.
 - [Software Architect Guidelines](https://github.com/justinamiller/SoftwareArchitect) - Good and succinct guidelines to read and follow for a software architect
-- [Protecting your cookies](https://blog.codinghorror.com/protecting-your-cookies-httponly/)
+- [Protecting your cookies](https://blog.codinghorror.com/protecting-your-cookies-httponly/) - umm hmm
 
 ## Interview Prep
 - [CodeChef](https://www.codechef.com/) - Data structures and Algorithms practice
