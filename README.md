@@ -2,6 +2,7 @@
 
 ## General Information based
 - [12 Factor App](https://12factor.net/) - Just know/be aware of this.
+- [12 Factor after 12 years, still relevant? - 2023](https://penchev.com/posts/twelve-factor-app-in-2023/#:~:text=The%20Twelve%2DFactor%20App%20methodology%20is%20as%20relevant%20and%20important,context%20of%20cloud%2Dnative%20applications.) - As the title says. Good article on mapping 12 factors to cloud-native systems.
 - [AWS CCP](https://miro.com/app/board/o9J_koXQP3U=/) - AWS Miro charts and flow diagrams I found on Reddit. I think this is more for Software Architect Associate Certification.
 - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) - One of the best articles explaining Git. To read when you want to sleep or when you are feeling extra productive during office hours.
 - [HTTP Status Codes](https://httpstatuses.com/) - Gives you ALL the codes on the first page. No BS.
