@@ -49,3 +49,6 @@
 
 ### Productivity
 - [Today was a Good day: The Daily: Life of Software Developers](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/devtime-preprint-TSE19.pdf) - A IEEE Whitepaper made available by Microsoft. A Good starting  point to try and understand the developer in a software development lifecycle.
+
+### Gen AI
+- [Tug's Site](https://tgrall.github.io/) - Guy who has multiple talks on AI, co-pilot, Microsoft, and a whole lot more topics. Good blog section too.
