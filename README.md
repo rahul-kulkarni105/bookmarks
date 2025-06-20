@@ -45,7 +45,6 @@
 ### General
 - [Learn X in Y minutes](https://learnxinyminutes.com/) - A very concise guide for all the main features of Y amounts of things out there. The name says it all. Non-English guides are mostly the most helpful and unique thing about this website.
 - [Compare NPM lib Trends](https://npmtrends.com/) - As the name says, comparing multiple libs out there. Perhaps gives more idea which is more popular lib or where the industry trend is going? If these things matter to you then this is a great comparison tool.
-- 
 
 ### Productivity
 - [Today was a Good day: The Daily: Life of Software Developers](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/devtime-preprint-TSE19.pdf) - A IEEE Whitepaper made available by Microsoft. A Good starting  point to try and understand the developer in a software development lifecycle.
