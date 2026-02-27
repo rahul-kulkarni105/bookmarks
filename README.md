@@ -17,6 +17,7 @@
 ## General Information
 - [12 Factor App](https://12factor.net/) — Just know/be aware of this.
 - [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) — One of the best articles explaining Git.
+- [How it works - Visualizations](https://www.reddit.com/r/webdev/s/JJ9ZznYNCn) - Https, DNS, TCP, CDN, NAT, VPC, oAuth etc concepts explained with visuals.
 
 ## Web Security
 - [OWASP Cheatsheet Series](https://cheatsheetseries.owasp.org/) — Great bullet point-based cheat sheet for application security.
