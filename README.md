@@ -48,3 +48,4 @@
 
 ## Gen AI
 - [Tug's Site](https://tgrall.github.io/) - Guy who has multiple talks on AI, co-pilot, Microsoft, and a whole lot more topics. Good blog section too.
+- [Development Principles](https://gist.github.com/rahul-kulkarni105/8dc41eefe61d5232068a609b2eb2163d) - Development priciples to be used in a UI app for agents.
